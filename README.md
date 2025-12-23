@@ -1,2 +1,62 @@
-# Addressbook-Using-C-language
-Built a menu-driven Address Book app in C at Emertxe Institute. Features CRUD operations, input validation, and file handling for data persistence. Strengthened skills in structures, pointers, functions, and real-time data management.
+📌 Project Description
+
+The Address Book Application is a menu-driven console-based project developed in C as part of my learning journey at Emertxe Institute of Technology. This application allows users to manage contacts efficiently with data persistence using file handling.
+
+🚀 Features
+
+Create new contacts
+
+View all saved contacts
+
+Search contacts by name or phone number
+
+Edit existing contact details
+
+Delete contacts
+
+Save contacts permanently using file handling
+
+Strong input validation for name, phone number, and email
+
+🛠️ Technologies & Concepts Used
+
+C Programming
+
+Functions & Modular Programming
+
+Structures and Nested Structures
+
+Arrays and Strings
+
+Pointers and Function Parameters
+
+File Handling (fopen, fprintf, fscanf, fclose)
+
+Conditional Statements and Loops
+
+Input Validation using ctype.h and string.h
+
+Menu-driven logic using switch-case
+
+📂 File Structure
+AddressBook/
+│
+├── main.c          # Main source file
+├── contact.txt     # File for storing contact data
+├── README.md       # Project documentation
+
+▶️ How to Run
+
+Clone the repository:
+
+git clone https://github.com/your-username/address-book-c.git
+
+
+Compile the program:
+
+gcc main.c -o address_book
+
+
+Run the application:
+
+./address_book
