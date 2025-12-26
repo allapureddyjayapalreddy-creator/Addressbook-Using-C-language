@@ -49,8 +49,7 @@ AddressBook/
 
 Clone the repository:
 
-git clone https://github.com/your-username/address-book-c.git
-
+https://github.com/allapureddyjayapalreddy-creator/Addressbook-Using-C-language
 
 Compile the program:
 
